@@ -1,14 +1,14 @@
 # Nikora Cat
-## contacts:
+## Contacts:
 - **phone:** +12345678
 - **E-mail:** fakegmail.com
 ---
 ## Briefly About Myself:
-Im highschool student.ive been interested in programming for years, studding it nearly 3 years.I aditionally study in programming school and write usaco tests and try olimpiadas. I participatec in two conferenses with presentations about digital imiginges. Im plaming to contenew studding and improving my skills in this sfear. I hope to get into MIT or Stenford youniverity to study computer siance.
+I’m a high school student. I’ve been interested in programming, studying it for nearly 3 years. I additionally study in programming school and write usaco.org tests and try contests. I participated in two conferences with presentations about digital imaging. I’m planning to continue studying and improving my skills in this sphere. I hope to get into MIT or Stanford University to study computer science.
 
-I also study and love playing on drums. have studed in art academy for 4 years and am still improving my art skills. play volleyball and love sport activitys. I love cooking and want to study it profecionally. I participate in school activitys and am part of school student self-governance wich is planing school activitys. I also want to study writing and write few action books. Generally i have many interests and I try to improve in them.
+I also study and love playing drums. Have studied in art academy for 4 years and am still improving my art skills. Play volleyball and love sport activities. I enjoy cooking and want to study it professionally. I participate in school activities and am part of school student self-governance which is planning school activities. I also want to study writing and write a few action books. Generally, i have many interests and I try to improve in them.
 
-Im fast lerner when it comes to things im interested in. I hope in future my work will be related to game development and consider my interests and aditional skills.
+I’m fast learner when it comes to things I’m interested in. I hope in future my work will be related with game development and consider my interests and additional skills.
 
 ---
 ## Skills and Proficiency:
@@ -17,7 +17,7 @@ Im fast lerner when it comes to things im interested in. I hope in future my wor
 
 ---
 
-## code example:
+## Code example:
 **task:** Timur loves codeforces. That's why he has a string s
  having length 10
  made containing only lowercase Latin letters. Timur wants to know how many indices string s
@@ -32,7 +32,7 @@ Help Timur by finding the number of indices where string s
 
 Note that you can't reorder the characters in the string s.
 
-**unswer in c++:** 
+**answer in c++:** 
 
     main() {
  
@@ -68,7 +68,7 @@ Note that you can't reorder the characters in the string s.
  }`
 
 ## languages:
-* Georgian -native
-* Russion -native
+* Georgian - native
+* Russion - native
 * English - intermediate
 
